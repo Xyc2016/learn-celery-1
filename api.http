@@ -1,0 +1,7 @@
+###
+POST http://127.0.0.1:10001/create_doc
+content-type: application/json
+
+{
+    "k": "......"
+}
